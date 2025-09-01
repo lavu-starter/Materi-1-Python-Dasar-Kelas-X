@@ -8,3 +8,5 @@ Materi ini mencakup pengenalan konsep pemrograman dasar seperti:
 5. Perulangan menggunakan for dan while
 
 https://wayground.com/join?gc=33054274
+Link pembahasan operator logika
+https://wayground.com/join?gc=05135938
